@@ -4,9 +4,9 @@
 <title>Jasa Pembuatan Website</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3-theme-blue-grey.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/w3.css">
+<link rel="stylesheet" href="css/w3-theme-blue-grey.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
 <body id="myPage">
 
 <!-- Navbar -->
@@ -184,7 +184,7 @@ function openCity(evt, cityName) {
       <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;+62 8382 1691 702</p>
      </div>
     <div class="w3-col m7">
-      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="form.asp" target="_blank">
+      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="#" target="_blank">
       <div class="w3-group">      
         <label class="w3-label">Name</label>
         <input class="w3-input" type="text" name="Name" required>
