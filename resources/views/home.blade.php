@@ -16,11 +16,7 @@
   <li class="w3-hide-small"><a href="#paketwebsite" class="w3-hover-white">Paket Website</a></li>
   <li class="w3-hide-small"><a href="#harga" class="w3-hover-white">Daftar Harga</a></li>
   <li class="w3-hide-small"><a href="#kontak" class="w3-hover-white">Kontak</a></li>
-<<<<<<< HEAD
   <li class="w3-hide-small w3-right"><a href="#kontak" class="w3-hover-white"><b>PEMESANAN</b> (SMS/WA) ke Jovan / Frencius - 08-997-283-263</a></li>
-=======
-  <li class="w3-hide-small w3-right"><a href="#" class="w3-hover-white"><b>PEMESANAN</b> (SMS/WA) ke Jovan / Frencius - 08-997-283-263</a></li>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
  </ul>
 
 </div>
@@ -33,11 +29,7 @@
     <h2>PAKET WEBSITE</h2><br>
   <div class="w3-row">
     <a href="javascript:void(0)" onclick="openCity(event, 'London');">
-<<<<<<< HEAD
       <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding w3-border-blue-grey">Paket Website + Domain .COM/.NET</div>
-=======
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Paket Website + Domain .COM/.NET</div>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
     </a>
     <a href="javascript:void(0)" onclick="openCity(event, 'Paris');">
       <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Paket Website + Domain .WEB.ID</div>
@@ -61,7 +53,6 @@
   <span class="w3-tag w3-jumbo">T</span>
   <br><br>
 
-<<<<<<< HEAD
   <p>Paket ini adalah paket website terima jadi yang berisi website, domain, dan hosting beserta jasa upload website.<br> Pembeli dapat langsung melihat website pada alamat website. Website yang dibuat adalah website kewirausahaan dengan domain <b>.com </b>atau <b>.net</b>.<br> Space hosting pada paket ini adalah 100 MB dan bisa di-upgrade sesuai dengan permintaan. Harga normal paket ini adalah Rp. 250.000 per tahun. Diberikan juga username dan password untuk login ke halaman Cpanel hosting.</p><br>
   <a href="#kontak"><button class="w3-btn w3-round-large w3-red">Pesan Sekarang</button></a>
   </div>
@@ -69,13 +60,6 @@
   <div id="Paris" class="w3-container city" style="display:none">
     <br>
   <span class="w3-tag w3-jumbo w3-yellow">.</span>    
-=======
-  <p>Paket ini adalah paket website beserta domain. Website yang dibuat adalah website kewirausahaan dengan domain .com atau .net. <br>Space hosting pada paket ini adalah 100 MB dan bisa di-upgrade sesuai dengan permintaan. Harga normal paket ini adalah Rp. 250.000 per tahun.</p>
-  </div>
-
-  <div id="Paris" class="w3-container city" style="display:none">
-    <br>    
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
   <span class="w3-tag w3-jumbo w3-red">W</span>
   <span class="w3-tag w3-jumbo">E</span>
   <span class="w3-tag w3-jumbo w3-yellow">B</span>
@@ -84,12 +68,8 @@
   <span class="w3-tag w3-jumbo w3-yellow">D</span>
   <br><br>
 
-<<<<<<< HEAD
   <p>Paket ini adalah paket website terima jadi yang berisi website, domain, dan hosting beserta jasa upload website.<br> Pembeli dapat langsung melihat website pada alamat website. Website yang dibuat adalah website kewirausahaan dengan domain <b>.web.id</b>.<br> Space hosting pada paket ini adalah 100 MB dan bisa di-upgrade sesuai dengan permintaan. Harga normal paket ini adalah Rp. 200.000 per tahun. Diberikan juga username dan password untuk login ke halaman Cpanel hosting.</p><br>
   <a href="#kontak"><button class="w3-btn w3-round-large w3-red">Pesan Sekarang</button></a>
-=======
-  <p>Paket ini adalah paket website beserta domain. Website yang dibuat adalah website kewirausahaan dengan domain .web.id. <br>Space hosting pada paket ini adalah 100 MB dan bisa di-upgrade sesuai dengan permintaan. Harga normal paket ini adalah Rp. 200.000 per tahun.</p>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
   </div>
 
   <div id="Tokyo" class="w3-container city" style="display:none">
@@ -100,11 +80,7 @@
   <span class="w3-tag w3-jumbo w3-red">A</span>
   <span class="w3-tag w3-jumbo">I</span>
   <span class="w3-tag w3-jumbo w3-yellow">N</span>
-<<<<<<< HEAD
     <span class="w3-tag w3-jumbo w3-red">+</span>
-=======
-    <span class="w3-tag w3-jumbo w3-red">/</span>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
   <span class="w3-tag w3-jumbo">H</span>
   <span class="w3-tag w3-jumbo w3-yellow">O</span>
   <span class="w3-tag w3-jumbo w3-red">S</span>
@@ -114,13 +90,9 @@
   <span class="w3-tag w3-jumbo w3-yellow">G</span>
 
   <br><br>
-<<<<<<< HEAD
 
   <p>Paket ini adalah paket domain dan hosting tanpa website. Domain yang dijual adalah <b>.com</b>, <b>.net</b>, <b>.web.id</b>, dan domain lainnya, dan space hosting yang ditawarkan mulai dari 100 MB hingga dengan 200 MB. Harga yang ditawarkan mulai dari Rp. 100.000 hingga dengan Rp. 250.000. Tersedia fitur unlimited MySQL, FTP, dll. Pembeli akan diberikan username dan password untuk login ke halaman Cpanel hosting.</p><br>
   <a href="#kontak"><button class="w3-btn w3-round-large w3-red">Pesan Sekarang</button></a>
-=======
-  <p>Paket ini menyediakan domain dan hosting tanpa website. Domain yang dijual adalah .com, .net, .web.id, dan domain lainnya. <br> Space hosting yang ditawarkan mulai dari 100 MB hingga dengan 200 MB. Tersedia fitur unlimited MySQL, FTP, dll</p>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
   </div>
 </div>
 
@@ -189,11 +161,7 @@ function openCity(evt, cityName) {
         </li>
         <li class="w3-padding-16"><b>No Website</b> </li>
         <li class="w3-padding-16"><b>Domain COM/NET/WEB.ID</b></li>
-<<<<<<< HEAD
         <li class="w3-padding-16"><b>Space 100 MB </b></li>
-=======
-        <li class="w3-padding-16"><b>Space 100MB </b></li>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
         <li class="w3-padding-16"><b>1 Tahun</b></li>
         <li class="w3-padding-16">
           <h2 class="w3-wide"><i class="fa fa-usd"></i> Rp. 100.000</h2>
@@ -210,13 +178,8 @@ function openCity(evt, cityName) {
     <div class="w3-col m5">
     <div class="w3-padding-16"><span class="w3-xlarge w3-border-teal w3-bottombar">Kontak Kami</span></div>
       <p>Jovan / Frencius</p>
-<<<<<<< HEAD
       <p><i class="fa fa-map-marker w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;COD : Unikom, Dago, Antapani - Bandung</p>
       <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;Tlp, SMS, WA :08-997-283-263</p>
-=======
-      <p><i class="fa fa-map-marker w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;Unikom, Bandung</p>
-      <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;08-997-283-263</p>
->>>>>>> df2d7bd6496267aa57d479cf2d48d23b902101b5
       <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;FB : Jovan Arliando</p>
      </div>
     <div class="w3-col m7">
