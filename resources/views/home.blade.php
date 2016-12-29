@@ -179,7 +179,7 @@ function openCity(evt, cityName) {
     <div class="w3-padding-16"><span class="w3-xlarge w3-border-teal w3-bottombar">Kontak Kami</span></div>
       <p>Jovan / Frencius</p>
       <p><i class="fa fa-map-marker w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;COD : Unikom, Dago, Antapani - Bandung</p>
-      <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp; Tlp, SMS, WA :08-997-283-263</p>
+      <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;Tlp, SMS, WA :08-997-283-263</p>
       <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>&nbsp;&nbsp;FB : Jovan Arliando</p>
      </div>
     <div class="w3-col m7">
